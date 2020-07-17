@@ -1,2 +1,2 @@
-# barbershop-android-app
+# Barbershop Android App
 Android Barbershop application
